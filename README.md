@@ -13,8 +13,8 @@ of Julia on your computer through [JuliaBox](https://juliabox.org/):
 4. Click the plus sign under `Action`.  This should add the repoistory and look as follows:
 ![Synced GitHub repository](fig/sync2.png)
 5. Click on the `IJulia` tab at the top of the page.  You should have a new folder `higher-order-organization-julia`
- the home directory: ![JuliaBox home directory](fig/homedir.png) Click on this folder.
-6. Click one one of the files with extension `.ipynb`.
+ in the home directory: ![JuliaBox home directory](fig/homedir.png)
+6. Click on the folder `higher-order-organization-julia` and then click on one of the files with extension `.ipynb`.
 
 You should now be in an interactive Jupyter notebook.  If you haven't used
 Jupyter or IPython before, you may want to read the
