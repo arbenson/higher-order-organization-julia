@@ -1,3 +1,15 @@
+# Higher-order organization of complex networks
+
+This repository consists of several Jupyter notebooks to reproduce examples
+in the paper
+
+Higher-order Organization of Complex Networks.  Austin R. Benson, David F. Gleich, and Jure Leskovec. 2016. To appear.
+
+You can read more about the project [here](http://snap.stanford.edu/higher-order/).
+The examples can run on the web with no install of Julia using [JuliaBox](https://juliabox.org/)
+(see the instructions below).
+
+
 # Run through JuliaBox over the web
 
 These Jupyter notebooks can run Julia code on the web without any installation
