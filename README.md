@@ -8,16 +8,16 @@ Austin R. Benson, David F. Gleich, and Jure Leskovec.
 Science, vol. 353, no. 6295, pp. 163-166, 2016.
 
 You can read more about the project [here](http://snap.stanford.edu/higher-order/).
-The examples can run on the web with no install of Julia using [JuliaBox](https://juliabox.org/)
+The examples can run on the web with no install of Julia using [JuliaBox](https://juliabox.com/)
 (see the instructions below).
 
 
 # Run through JuliaBox over the web
 
 These Jupyter notebooks can run Julia code on the web without any installation
-of Julia on your computer through [JuliaBox](https://juliabox.org/):
+of Julia on your computer through [JuliaBox](https://juliabox.com/):
 
-1. Sign in to [JuliaBox](https://juliabox.org/).
+1. Sign in to [JuliaBox](https://juliabox.com/).
 2. Selct the `Sync` tab at the top of the page.
 3. Under `Git Repositories`, there should be three spaces to fill:
   * Set `Git Clone URL` to `https://github.com/arbenson/higher-order-organization-julia.git`
